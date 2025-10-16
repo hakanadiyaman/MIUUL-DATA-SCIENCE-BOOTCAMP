@@ -1,0 +1,10 @@
+# PyCharm / IntelliJ
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+.DS_Store
